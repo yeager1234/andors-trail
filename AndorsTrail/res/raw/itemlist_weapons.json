@@ -4,13 +4,13 @@
         "iconID": "items_weapons:42",
         "name": "Wooden club",
         "category": "club",
-        "baseMarketCost": 7,
+        "baseMarketCost": 0,
         "equipEffect": {
-            "increaseAttackCost": 5,
-            "increaseAttackChance": 10,
+            "increaseAttackCost": 0,
+            "increaseAttackChance": 99,
             "increaseAttackDamage": {
-                "min": 0,
-                "max": 1
+                "min": 50,
+                "max": 60
             }
         }
     },
